@@ -6,7 +6,7 @@
 
 ### Mise en place du projet:
 
-    git clone https://github.com/CryptoRobotFr/backtest_tools.git
+    git clone https://github.com/LYZER03/Fake-review.git
     cd backtest_tools
 
 ### Mise en place de l'environnement virtuel (très recommandé):

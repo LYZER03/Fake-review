@@ -31,7 +31,7 @@ export default function Page() {
       description: 'I just need the basics!',
       features: [
         'Ad-free',
-        '1000 monthly Credits',
+        '10 Credits',
       ],
       price: '$0.99 USD/Month'
     },
@@ -40,10 +40,10 @@ export default function Page() {
       description: 'Full access to all premium features.',
       features: [
         'Ad-free',
-        '5000 monthly Credits',
+        '100 Credits',
         'Exclusive access to resources on fake review detection',
       ],
-      price: '$4.90 USD/Month'
+      price: '$8.99 USD/Month'
     },
     {
       title: 'DEEP Platinum',
@@ -55,7 +55,7 @@ export default function Page() {
         'Early access to new fake review detection features',
         'Special profile badges for commitment to fighting fake reviews',
       ],
-      price: '$9.90 USD/Month'
+      price: '$24.99 USD/Month'
     }
   ];
 

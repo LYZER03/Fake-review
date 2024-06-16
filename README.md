@@ -7,7 +7,9 @@
 ### Mise en place du projet:
 
     git clone https://github.com/LYZER03/Fake-review.git
-    cd backtest_tools
+    ouvrir 2 CLI
+    1 CLI : cd server
+    2 CLI : cd client
 
 ### Mise en place de l'environnement virtuel (très recommandé):
 
